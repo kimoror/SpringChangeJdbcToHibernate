@@ -1,7 +1,0 @@
-BACK\FirstApplication.class
-MODEL\Outcomes.class
-MODEL\HibernateStrategy.class
-API\MyService.class
-MODEL\JDBCStrategy.class
-MODEL\AbstractStrategy.class
-API\MyController.class
