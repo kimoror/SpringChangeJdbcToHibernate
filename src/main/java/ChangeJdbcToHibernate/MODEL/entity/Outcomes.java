@@ -12,8 +12,11 @@ public class Outcomes {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     private int id;
+    @JsonProperty("ship")
     private String ship;
+    @JsonProperty("battle")
     private String battle;
+    @JsonProperty("result")
     private String result;
 
     public Outcomes(){};
